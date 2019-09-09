@@ -18,7 +18,7 @@ public class PopulationManager : MonoBehaviour
         guiStyle.fontSize = 50;
         guiStyle.normal.textColor = Color.white;
         GUI.Label(new Rect(10, 10, 100, 20), "Gemeration: " + generation, guiStyle);
-        GUI.Label(new Rect(10, 10, 100, 20), "Trial Time: " + (int)elapsed, guiStyle);
+        GUI.Label(new Rect(10, 80, 100, 20), "Trial Time: " + (int)elapsed, guiStyle);
 
 
     }
