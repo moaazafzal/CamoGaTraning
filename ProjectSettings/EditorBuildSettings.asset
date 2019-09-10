@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/camo.unity
+    guid: 089ef80fa8d404bd48bea6ecba4198ce
   m_configObjects: {}
